@@ -1,0 +1,6 @@
+terraform_service_account = "terraform@my-project.org"
+project_id                = "pr-comp-envs"
+region                    = "us-central1"
+vpc_access_cidr           = "100.64.128.0/28"
+network_project_id        = "pr-comp-shared-vpc"
+shared_vpc_network        = "pr-composer-shared-vpc"
